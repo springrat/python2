@@ -11,7 +11,8 @@
   
 </table>
 
-Repo link: [link]
+
+[Repo Link] (https:// "Repo")
 
 <em>Testing Beautiful soup for class project using Python to scrape specific information from the html of a website. I chose
 [FANDOM: Dragon Age Characters Page](https://dragonage.fandom.com/wiki/Category:Characters "DA Characters") for this exercise.</em>
