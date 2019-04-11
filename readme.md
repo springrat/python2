@@ -8,6 +8,7 @@
     <tr>
         <td>API HTML Scraping</td>
     </tr>
-  <em>Testing Beautiful soup for class project using Python</em>
   
 </table>
+
+<em>Testing Beautiful soup for class project using Python</em>
