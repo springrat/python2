@@ -14,8 +14,10 @@
 
 [Repo Link](https://github.com/springrat/python2/blob/master/bsoup_test.py "Repo")
 
-<em>Testing Beautiful soup for class project using Python to scrape specific information from the html of a website. I chose
-[FANDOM: Dragon Age Characters Page](https://dragonage.fandom.com/wiki/Category:Characters "DA Characters") for this exercise.</em>
+<table>
+    <tr>
+        <em>Testing Beautiful soup for class project using Python to scrape specific information from the html of a website. I chose
+[FANDOM: Dragon Age Characters Page](https://dragonage.fandom.com/wiki/Category:Characters "DA Characters") for this exercise.</em></tr></table>
 
 
 
