@@ -12,7 +12,7 @@
 </table>
 
 
-        [Repo Link](https://github.com/springrat/python2/blob/master/bsoup_test.py "Repo")
+[Repo Link](https://github.com/springrat/python2/blob/master/bsoup_test.py "Repo")
 
 
  <em>Testing Beautiful soup for class project using Python to scrape specific information from the html of a website. I chose
